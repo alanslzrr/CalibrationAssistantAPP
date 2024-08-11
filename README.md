@@ -32,7 +32,7 @@ Where:
 
 Here's a brief demonstration of the application's functionality:
 
-![Calibration Assistant Demo](https://raw.githubusercontent.com/alanslzrr/CalibrationAssistantAPP/main/images/function.gif)
+<img src="https://raw.githubusercontent.com/alanslzrr/CalibrationAssistantAPP/main/images/function.gif" alt="Calibration Assistant Demo" width="800"/>
 
 ## Technical Stack
 
