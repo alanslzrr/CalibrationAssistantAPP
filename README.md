@@ -28,7 +28,7 @@ Where:
 
 Here's a brief demonstration of the application's functionality:
 
-![Functionality Demo](images/function.gif)
+![Calibration Assistant Demo](https://raw.githubusercontent.com/yourusername/calibration-assistant/main/images/function.gif)
 
 ## Technical Stack
 
@@ -98,3 +98,8 @@ The application's appearance can be customized by modifying the `config.toml` fi
 ## License
 
 Licensed under the MIT License. See [LICENSE](LICENSE) for details.
+
+
+![Calibration Assistant Demo](https://raw.githubusercontent.com/yourusername/calibration-assistant/main/images/function.gif)
+
+[... rest of the README remains unchanged ...]
