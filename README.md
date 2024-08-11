@@ -12,6 +12,24 @@ Calibration Assistant is a Streamlit-based web application designed to help user
 - Support for various units of measurement (g, kg, lb, °C, %RH, °F)
 - Interactive UI with a custom theme
 
+## Uncertainty Calculation Formula
+
+The application uses the following formula to calculate the combined uncertainty:
+
+![Uncertainty Calculation Formula](images/Formula.png)
+
+Where:
+- CMC total = cmc_fijo_g + (cmc_proporcional_g × valor_nominal)
+- cmc_fijo_g and cmc_proporcional_g are the fixed and proportional components of the CMC, respectively, converted to grams.
+- meas_uncert is the provided measurement uncertainty, in grams.
+- valor_nominal is the nominal value for which the uncertainty is being calculated, in grams.
+
+## Functionality Demo
+
+Here's a brief demonstration of the application's functionality:
+
+![Functionality Demo](images/function.gif)
+
 ## Technical Stack
 
 - **Frontend**: Streamlit
