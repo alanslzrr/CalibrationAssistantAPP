@@ -1,0 +1,146 @@
+[
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 0.001,
+            "Max": 5,
+            "Unit": "g"
+        },
+        "CMC": "3.5 \u03bcg + 0.33 \u03bcg/g",
+        "Comments": "Standards weights",
+        "ID": 1
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 5.1,
+            "Max": 20,
+            "Unit": "g"
+        },
+        "CMC": "7 \u03bcg + 0.36 \u03bcg/g",
+        "Comments": "Standards weights",
+        "ID": 2
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 20.1,
+            "Max": 200,
+            "Unit": "g"
+        },
+        "CMC": "51 \u03bcg + 0.13 \u03bcg/g",
+        "Comments": "Standards weights",
+        "ID": 3
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 200.1,
+            "Max": 1000,
+            "Unit": "g"
+        },
+        "CMC": "0.16 mg + 0.52 \u03bcg/g",
+        "Comments": "Standards weights",
+        "ID": 4
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 1000.1,
+            "Max": 5000,
+            "Unit": "g"
+        },
+        "CMC": "5.5 mg + 0.14 \u03bcg/g",
+        "Comments": "Standards weights",
+        "ID": 5
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 5000,
+            "Max": 30000,
+            "Unit": "g"
+        },
+        "CMC": "18 mg + 2.3 \u03bcg/g",
+        "Comments": "Standards weights",
+        "ID": 6
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 30100,
+            "Max": 65000,
+            "Unit": "g"
+        },
+        "CMC": "100 mg + 0.71 \u03bcg/g",
+        "Comments": "Standards weights",
+        "ID": 7
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 65100,
+            "Max": 600000,
+            "Unit": "g"
+        },
+        "CMC": "5.5 g + 2.8 g / 25 kg",
+        "Comments": "Standards weights",
+        "ID": 8
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 600100,
+            "Max": 5000000,
+            "Unit": "g"
+        },
+        "CMC": "54 g + 2.8 g /25 kg",
+        "Comments": "Standards weights",
+        "ID": 9
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 5000100,
+            "Max": 15000000,
+            "Unit": "g"
+        },
+        "CMC": "1.1 kg + 33 g / 500 kg",
+        "Comments": "Standards weights",
+        "ID": 10
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 15000100,
+            "Max": 60000000,
+            "Unit": "g"
+        },
+        "CMC": "5.8 kg + 7.5 kg/15 000 kg",
+        "Comments": "Standard weights & substitution method",
+        "ID": 11
+    },
+    {
+        "Categoria": "Mechanical",
+        "Equipment": "Balances & Scales",
+        "Range": {
+            "Min": 60000100,
+            "Max": 100000000,
+            "Unit": "g"
+        },
+        "CMC": "9 kg + 0.058 g/kg",
+        "Comments": "Standard weights & substitution method",
+        "ID": 12
+    }
+]

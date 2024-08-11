@@ -1,0 +1,518 @@
+[
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment",
+        "Range": {
+            "Min": -200,
+            "Max": -40,
+            "Unit": "°C"
+        },
+        "CMC": "0.028 °C",
+        "Comments": "Digital indicator with PRT, liquid baths, dry blocks",
+        "ID": 1
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment",
+        "Range": {
+            "Min": -40,
+            "Max": 0,
+            "Unit": "°C"
+        },
+        "CMC": "0.026 °C",
+        "Comments": "Digital indicator with PRT, liquid baths, dry blocks",
+        "ID": 2
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment",
+        "Range": {
+            "Min": 0,
+            "Max": 232,
+            "Unit": "°C"
+        },
+        "CMC": "0.048 °C",
+        "Comments": "Digital indicator with PRT, liquid baths, dry blocks",
+        "ID": 3
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment",
+        "Range": {
+            "Min": 232,
+            "Max": 420,
+            "Unit": "°C"
+        },
+        "CMC": "0.070 °C",
+        "Comments": "Digital indicator with PRT, liquid baths, dry blocks",
+        "ID": 4
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment",
+        "Range": {
+            "Min": 420,
+            "Max": 660,
+            "Unit": "°C"
+        },
+        "CMC": "0.081 °C",
+        "Comments": "Digital indicator with PRT, liquid baths, dry blocks",
+        "ID": 5
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment",
+        "Range": {
+            "Min": 660,
+            "Max": 1200,
+            "Unit": "°C"
+        },
+        "CMC": "3.5 °C",
+        "Comments": "Dry block calibrator",
+        "ID": 6
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment (Ambient Equipment)",
+        "Range": {
+            "Min": -40,
+            "Max": 100,
+            "Unit": "°C"
+        },
+        "CMC": "0.059 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 7
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment (Ambient Equipment)",
+        "Range": {
+            "Min": 10,
+            "Max": 50,
+            "Unit": "°C"
+        },
+        "CMC": "0.056 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 8
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment (Ambient Equipment)",
+        "Range": {
+            "Min": 50,
+            "Max": 200,
+            "Unit": "°C"
+        },
+        "CMC": "0.059 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 9
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment (Thermocouples)",
+        "Range": {
+            "Min": -80,
+            "Max": -40,
+            "Unit": "°C"
+        },
+        "CMC": "0.3 °C",
+        "Comments": "",
+        "ID": 10
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment (Thermocouples)",
+        "Range": {
+            "Min": -40,
+            "Max": 0,
+            "Unit": "°C"
+        },
+        "CMC": "0.54 °C",
+        "Comments": "",
+        "ID": 11
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment (Thermocouples)",
+        "Range": {
+            "Min": 0,
+            "Max": 650,
+            "Unit": "°C"
+        },
+        "CMC": "0.38 °C",
+        "Comments": "",
+        "ID": 12
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measuring Equipment (Thermocouples)",
+        "Range": {
+            "Min": 650,
+            "Max": 1200,
+            "Unit": "°C"
+        },
+        "CMC": "1.6 °C",
+        "Comments": "",
+        "ID": 13
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Dry Blocks",
+        "Range": {
+            "Min": -80,
+            "Max": 0,
+            "Unit": "°C"
+        },
+        "CMC": "0.062 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 14
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Dry Blocks",
+        "Range": {
+            "Min": 0,
+            "Max": 232,
+            "Unit": "°C"
+        },
+        "CMC": "0.071 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 15
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Dry Blocks",
+        "Range": {
+            "Min": 232,
+            "Max": 420,
+            "Unit": "°C"
+        },
+        "CMC": "0.19 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 16
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Dry Blocks",
+        "Range": {
+            "Min": 420,
+            "Max": 660,
+            "Unit": "°C"
+        },
+        "CMC": "0.20 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 17
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Dry Blocks",
+        "Range": {
+            "Min": 660,
+            "Max": 1200,
+            "Unit": "°C"
+        },
+        "CMC": "0.25 °C + 0.36 %",
+        "Comments": "Digital indicator with PRT",
+        "ID": 18
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Liquid-in-Glass Thermometers",
+        "Range": {
+            "Min": -80,
+            "Max": 105,
+            "Unit": "°C"
+        },
+        "CMC": "0.084 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 19
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Liquid-in-Glass Thermometers",
+        "Range": {
+            "Min": 95,
+            "Max": 205,
+            "Unit": "°C"
+        },
+        "CMC": "0.11 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 20
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Liquid-in-Glass Thermometers",
+        "Range": {
+            "Min": 195,
+            "Max": 405,
+            "Unit": "°C"
+        },
+        "CMC": "0.14 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 21
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measure (Temperature Chambers, Ovens, Freezers)",
+        "Range": {
+            "Min": -200,
+            "Max": 0,
+            "Unit": "°C"
+        },
+        "CMC": "0.055 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 22
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measure (Temperature Chambers, Ovens, Freezers)",
+        "Range": {
+            "Min": 0,
+            "Max": 232,
+            "Unit": "°C"
+        },
+        "CMC": "0.067 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 23
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measure (Temperature Chambers, Ovens, Freezers)",
+        "Range": {
+            "Min": 232,
+            "Max": 420,
+            "Unit": "°C"
+        },
+        "CMC": "0.08 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 24
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measure (Temperature Chambers, Ovens, Freezers)",
+        "Range": {
+            "Min": 420,
+            "Max": 660,
+            "Unit": "°C"
+        },
+        "CMC": "0.18 °C",
+        "Comments": "Digital indicator with PRT",
+        "ID": 25
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Temperature - Measure (Temperature Chambers, Ovens, Freezers)",
+        "Range": {
+            "Min": 660,
+            "Max": 1200,
+            "Unit": "°C"
+        },
+        "CMC": "4.7 °C + 0.56 %",
+        "Comments": "Digital indicator with thermocouple",
+        "ID": 26
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Infrared Temperature Thermometer",
+        "Range": {
+            "Min": -15,
+            "Max": 0,
+            "Unit": "°C"
+        },
+        "CMC": "0.55 °C",
+        "Comments": "Black body IR calibrators",
+        "ID": 27
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Infrared Temperature Thermometer",
+        "Range": {
+            "Min": 0,
+            "Max": 100,
+            "Unit": "°C"
+        },
+        "CMC": "0.35 °C",
+        "Comments": "Black body IR calibrators",
+        "ID": 28
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Infrared Temperature Thermometer",
+        "Range": {
+            "Min": 100,
+            "Max": 200,
+            "Unit": "°C"
+        },
+        "CMC": "0.96 °C",
+        "Comments": "Black body IR calibrators",
+        "ID": 29
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Infrared Temperature Thermometer",
+        "Range": {
+            "Min": 200,
+            "Max": 500,
+            "Unit": "°C"
+        },
+        "CMC": "2.1 °C",
+        "Comments": "Black body IR calibrators",
+        "ID": 30
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measuring Equipment",
+        "Range": {
+            "Min": 0.25,
+            "Max": 10,
+            "Unit": "% RH"
+        },
+        "CMC": "0.97 % RH",
+        "Comments": "Hygrometer standard, humidity generator",
+        "ID": 31
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measuring Equipment",
+        "Range": {
+            "Min": 10,
+            "Max": 35,
+            "Unit": "% RH"
+        },
+        "CMC": "0.99 % RH",
+        "Comments": "Hygrometer standard, humidity generator",
+        "ID": 32
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measuring Equipment",
+        "Range": {
+            "Min": 35,
+            "Max": 80,
+            "Unit": "% RH"
+        },
+        "CMC": "1.1 % RH",
+        "Comments": "Hygrometer standard, humidity generator",
+        "ID": 33
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measuring Equipment",
+        "Range": {
+            "Min": 80,
+            "Max": 95,
+            "Unit": "% RH"
+        },
+        "CMC": "1.1 % RH",
+        "Comments": "Hygrometer standard, humidity generator",
+        "ID": 34
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measure & Environmental Testing",
+        "Range": {
+            "Min": 0.25,
+            "Max": 10,
+            "Unit": "% RH"
+        },
+        "CMC": "0.97 % RH",
+        "Comments": "EURAMET GUIDE NO.: 20 & IEC 60068-3",
+        "ID": 35
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measure & Environmental Testing",
+        "Range": {
+            "Min": 10,
+            "Max": 35,
+            "Unit": "% RH"
+        },
+        "CMC": "0.99 % RH",
+        "Comments": "EURAMET GUIDE NO.: 20 & IEC 60068-3",
+        "ID": 36
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measure & Environmental Testing",
+        "Range": {
+            "Min": 35,
+            "Max": 80,
+            "Unit": "% RH"
+        },
+        "CMC": "1.1 % RH",
+        "Comments": "EURAMET GUIDE NO.: 20 & IEC 60068-3",
+        "ID": 37
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Relative Humidity - Measure & Environmental Testing",
+        "Range": {
+            "Min": 80,
+            "Max": 95,
+            "Unit": "% RH"
+        },
+        "CMC": "1.1 % RH",
+        "Comments": "EURAMET GUIDE NO.: 20 & IEC 60068-3",
+        "ID": 38
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Dew Point - Measuring Equipment",
+        "Range": {
+            "Min": -80,
+            "Max": -60,
+            "Unit": "°F"
+        },
+        "CMC": "4.4 °F",
+        "Comments": "Dew point transmitter",
+        "ID": 39
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Dew Point - Measuring Equipment",
+        "Range": {
+            "Min": -60,
+            "Max": -30,
+            "Unit": "°F"
+        },
+        "CMC": "4.4 °F",
+        "Comments": "Dew point transmitter",
+        "ID": 40
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Dew Point - Measuring Equipment",
+        "Range": {
+            "Min": -30,
+            "Max": -20,
+            "Unit": "°F"
+        },
+        "CMC": "6.6 °F",
+        "Comments": "Dew point transmitter",
+        "ID": 41
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Dew Point - Measuring Equipment",
+        "Range": {
+            "Min": -20,
+            "Max": 0,
+            "Unit": "°F"
+        },
+        "CMC": "3 °F",
+        "Comments": "Dew point transmitter",
+        "ID": 42
+    },
+    {
+        "Categoria": "Thermodynamics",
+        "Equipment": "Dew Point - Measuring Equipment",
+        "Range": {
+            "Min": -10,
+            "Max": 60,
+            "Unit": "°C"
+        },
+        "CMC": "0.83 °C",
+        "Comments": "Calculated using temperature & humidity standards.",
+        "ID": 43
+    }
+]
