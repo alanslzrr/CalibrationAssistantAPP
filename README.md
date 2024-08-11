@@ -26,13 +26,12 @@ Where:
 
 ## Functionality Demo
 
-# Calibration Assistant
-
-## Functionality Demo
 
 Here's a brief demonstration of the application's functionality:
 
-<img src="https://raw.githubusercontent.com/alanslzrr/CalibrationAssistantAPP/main/images/function.gif" alt="Calibration Assistant Demo" width="800"/>
+![Calibration Assistant Demo](https://raw.githubusercontent.com/alanslzrr/CalibrationAssistantAPP/main/images/function.gif)
+
+
 
 ## Technical Stack
 
