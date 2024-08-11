@@ -24,13 +24,12 @@ Where:
 - meas_uncert is the provided measurement uncertainty, in grams.
 - valor_nominal is the nominal value for which the uncertainty is being calculated, in grams.
 
+ 
 ## Functionality Demo
-
 
 Here's a brief demonstration of the application's functionality:
 
 ![Calibration Assistant Demo](https://raw.githubusercontent.com/alanslzrr/CalibrationAssistantAPP/main/images/function.gif)
-
 
 
 ## Technical Stack
