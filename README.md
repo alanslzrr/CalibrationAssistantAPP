@@ -1,5 +1,10 @@
 # Calibration Assistant
 
+
+[![Python Version](https://img.shields.io/badge/python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
+[![Streamlit Version](https://img.shields.io/badge/streamlit-1.10%2B-red.svg)](https://streamlit.io/)
+
+
 ## Overview
 
 Calibration Assistant is a Streamlit-based web application designed to help users search and analyze calibration certificates for various equipment, particularly focusing on scales and balances. The application provides an intuitive interface for accessing detailed certificate information, performing uncertainty calculations, and exploring calibration data.
